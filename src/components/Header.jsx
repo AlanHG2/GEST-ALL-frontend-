@@ -9,7 +9,7 @@ function C_Header() {
     return (
             <Row gutter={8}>
                 <Col className="gutter-row" span={19}>
-                    <div className="logo">
+                    <div className="logoJera">
                         <img src="/images/JeraLogo.png" alt="" />
                     </div>
                 </Col>
